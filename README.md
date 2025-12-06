@@ -1,25 +1,29 @@
 # perfumy-project
-This is my **first HTML project**, a simple perfume website built using **only HTML**.  
-It was created to practice basic web structure, semantic tags, and organizing content without styling or interactivity.
+This is my **first CSS project**, a perfume website styled entirely with **CSS**.  
+The goal of this project was to practice layout, colors, typography, and responsive design using CSS, while applying styles to a basic HTML structure.
 
 ## ✨ Features
-- Basic webpage layout using HTML
-- Sections for perfume name, description, and details
-- Simple navigation structure
-- Beginner-friendly code with no CSS or JavaScript
+- Elegant design for a perfume showcase
+- Custom colors, fonts, and spacing
+- Responsive layout for desktop and mobile
+- Hover effects and transitions for interactivity
+- Organized CSS code for easy customization
 
 ## 🛠️ Tech Stack
-- **HTML5** → Used for all content and structure
+- **CSS3** → Styling, layout, and responsiveness
+- **HTML5** → Basic structure (used only to apply CSS)
 
 ## 🚀 How to Run
 1. Clone or download the repository.
-2. Open `index.html` in any web browser.
+2. Open `index.html` in your browser.
+3. Explore the styled perfume website.
 
 ## 🎯 Learning Outcomes
-- Learned how to structure a webpage using HTML
-- Practiced semantic tags like `<header>`, `<section>`, `<footer>`
-- Gained confidence in building a static website without styling
+- Practiced CSS selectors and properties
+- Learned about box model, flexbox, and positioning
+- Applied responsive design techniques
+- Built confidence in creating visually appealing websites
 
 ---
 
-🏆 This project marks the start of my web development journey — my very first step into coding with HTML.
+🏆 This project marks my first step into **web design with CSS**, focusing purely on styling and creativity.
